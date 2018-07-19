@@ -1,7 +1,7 @@
 简介
 ---
 
-在线地址：[https://github.com/relaxing0314/gaojing](https://github.com/relaxing0314/gaojing)
+在线地址：[https://relaxing0314.github.io/gaojing/index.html](https://relaxing0314.github.io/gaojing/index.html)
 
 英文版暂停更新。
 
@@ -31,7 +31,7 @@
 
 GitHub项目
 ---
-[主页](https://github.com/relaxing0314/gaojing)
+[主页](https://relaxing0314.github.io/gaojing/index.html)
 
 ---
 
